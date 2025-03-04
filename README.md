@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Agustin
 #### ✨ Passionate Developer & Digital Creator
-![✨ Passionate Developer & Digital Creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I love blending technology, creativity, and design to build engaging digital experiences. I enjoy coding, designing, and continuously learning new technologies. This project was created for fun—it allows you to generate nice and simple GitHub README files that you can copy/paste and use in your profile. Let's make GitHub profiles stand out! 🚀
 
